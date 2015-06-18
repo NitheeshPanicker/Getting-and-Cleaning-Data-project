@@ -15,12 +15,12 @@ Additional vectors obtained by averaging the signals in a signal window sample. 
 gravityMean tBodyAccMean tBodyAccJerkMean tBodyGyroMean tBodyGyroJerkMean<br />
 
 ##Feature Vector variables:##
-#mean()# : mean values of multiple measurements of the original variables. Type: Real number<br />
+mean() : mean values of multiple measurements of the original variables. Type: Real number<br />
 
-#std()#: Standard deviation of multiple measurements of the original variables. Type: Real number<br />
+std(): Standard deviation of multiple measurements of the original variables. Type: Real number<br />
 
-#activity_id#: Identifier, identifying the activity of each subject Type: Integer Values: 1 : 6<br />
+activity_id: Identifier, identifying the activity of each subject Type: Integer Values: 1 : 6<br />
 
-#activity_name#: Descriptive name of each subject's activity Type: Factor Values: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING<br />
+activity_name: Descriptive name of each subject's activity Type: Factor Values: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING<br />
 
-#subject_id# : Identifier, identifying each subject Type: Integer Values: 1 : 30<br />
+subject_id : Identifier, identifying each subject Type: Integer Values: 1 : 30<br />
