@@ -14,7 +14,7 @@ Additional vectors obtained by averaging the signals in a signal window sample. 
 
 gravityMean tBodyAccMean tBodyAccJerkMean tBodyGyroMean tBodyGyroJerkMean<br />
 
-##Feature Vector variables:##<br />
+##Feature Vector variables:##
 #mean()# : mean values of multiple measurements of the original variables. Type: Real number<br />
 
 #std()#: Standard deviation of multiple measurements of the original variables. Type: Real number<br />
